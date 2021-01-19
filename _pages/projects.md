@@ -6,11 +6,11 @@ nav: true
 ---
 
 <font size="+1"> <b> Spatial and Temporal Super-Resolution of Global Climate Models using Deep Learning </b></font>
-Physics-based global climate simulations are computationally expensive and limited to low spatial and temporal resolutions, making it difficult to predict and track highly localized extreme weather phenomena. We used deep learning (SRGAN, CycleGAN, Super Slo Mo, and other methods) to increase the resolution of global climate models in both space and time. Full text coming soon!
+Physics-based global climate simulations are computationally expensive and limited to low spatial and temporal resolutions, making it difficult to predict and track highly localized extreme weather phenomena. We used deep learning (SRGAN, CycleGAN, Super Slo Mo, and other methods) to increase the resolution of global climate models in both space and time. For this work we won the Best Paper Award and $20,000 prize at the [ProjectX](https://www.projectx2020.com/){:target="\_blank"} research competition
 <br>
 With: Eric Chen, Ziwei Tian, Anh Huan Tran, Yue Yao, Zhizhuo Zhou. Advisor: [Sindhu Kutty](https://www.cs.swarthmore.edu/~sindhu/){:target="\_blank"}
 <br>
-[Abstract](https://drive.google.com/file/d/1h8z2NkXJ7PKC6OT5oHc2YK2ri_OxV5ZF/view?usp=sharing){:target="\_blank"} | [GitHub](https://github.com/ericch99/bayes-and-blue){:target="\_blank"}
+[Paper](https://drive.google.com/file/d/1cbwTb7DNe0vRZiN9hg53W5MZdRbXJqsg/view?usp=sharing){:target="\_blank"} | [GitHub](https://github.com/ericch99/bayes-and-blue){:target="\_blank"}
 <br>
 
 <font size="+1"> <b> Deep Semantic Segmentation of Silicon Carbide Wafer Scratches </b> </font>

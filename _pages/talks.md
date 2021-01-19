@@ -4,6 +4,8 @@ permalink: /presentations/
 title: presentations
 nav: true
 ---
+<font size="+1"> <b> Jan 2021: </b> University of Toronto AI Conference - ProjectX Winners Presentation: Super-Resolution of Climate Models</font>
+[Slides](https://drive.google.com/file/d/1NBNk8_P16CuV6mZyFJx-hH_BwsXhnb9z/view?usp=sharing){:target="\_blank"}
 
 <font size="+1"> <b> Dec 2020: </b> LBNL Journal Club - Super-Resolution of Climate Models</font>
 [Slides](https://drive.google.com/file/d/1bsqHDbr78zUIZCHvOqTqP8yzafKdgfa-/view?usp=sharing){:target="\_blank"}
