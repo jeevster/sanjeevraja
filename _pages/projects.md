@@ -38,7 +38,7 @@ With: [Ernest Fokoue](https://www.rit.edu/directory/epfeqa-ernest-fokoue){:targe
 <font size="+1"> <b>Computational Modeling of Waste Heat Recovery Systems for Internal Combustion Engines</b> </font>
 Waste heat recovery (WHR) systems recover heat energy from vehicle exhaust in order to improve engine efficiency. In this work, we used the GT-Power modeling software to design a Rankine Cycle waste heat recovery system for application in internal combustion engines. We incorporated PID process control elements to ensure system stability at a wide range of operating conditions.
 <br>
-With: [Greg Hulbert](https://me.engin.umich.edu/people/faculty/greg-hulbert){:target="\_blank"} at UofM and Chris Reid(https://me.engin.umich.edu/people/faculty/greg-hulbert){:target="\_blank"} at General Motors
+With: [Greg Hulbert](https://me.engin.umich.edu/people/faculty/greg-hulbert){:target="\_blank"} at UofM and [Chris Reid](https://me.engin.umich.edu/people/faculty/greg-hulbert){:target="\_blank"} at General Motors
 <br>
 I can't share materials due to the proprietary nature of this work
 <br>
