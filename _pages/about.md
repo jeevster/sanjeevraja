@@ -6,13 +6,13 @@ description: University of Michigan - Ann Arbor
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_1014.jpg
   
 
 news: true  # includes a list of news items
 selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I'm a 3rd year undergraduate student at the University of Michigan where I study Data Science and Chemical Engineering. I'm interested in the intersection of machine learning and the physical sciences.
+I'm a rising 4th year undergraduate student at the University of Michigan where I study Data Science and Chemical Engineering. My interests span machine learning, computer vision, statistics, and the physical sciences. I'm currently a research intern working on deep learning for fluid physics at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/){:target="\_blank"}
 
-I'm a research assistant in the lab of [Dr. Fei Wen](http://cheresearch.engin.umich.edu/wen/){:target="\_blank"}, where I develop domain-informed, interpretable ML tools for immunology. I also represented my university in [ProjectX](https://www.projectx2020.com/){:target="\_blank"}, an international research competition on ML for climate change solutions.
+Recently, my research has focused on [super-resolution](https://drive.google.com/file/d/1cbwTb7DNe0vRZiN9hg53W5MZdRbXJqsg/view?usp=sharing){:target="\_blank"} for climate and fluid dynamics. I represented my university in [ProjectX](https://www.projectx2020.com/){:target="\_blank"}, an international research competition on ML for climate change solutions. Before this, I worked on semantic segmentation for defect detection in semiconductor fabrication. I've also done research in computational immunology and anomaly detection.
