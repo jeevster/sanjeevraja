@@ -6,7 +6,7 @@ description: University of Michigan - Ann Arbor
 
 profile:
   align: right
-  image: IMG_1014.jpg
+  image: IMG_1014.jpeg
   
 
 news: true  # includes a list of news items
