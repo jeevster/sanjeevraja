@@ -4,6 +4,12 @@ title: projects
 permalink: /projects/
 nav: true
 ---
+<font size="+1"> <b> Multigrid Neural Operators for Efficient Deep Learning on Large Fields in the Physical Sciences </b></font>
+Data arising from many physical science experiments contain hundreds of variables at high spatial resolution. Often, a single such image cannot be loaded onto a GPU, making machine learning workflows unfeasible. I developed a multigrid neural network which performs memory-efficient training and inference by training on multiscale crops while preserving long-range spatial interactions. Manuscripts currently in preparation. <br>
+With: Jaideep Pathak, Ashesh Chattopadhyay, Zongyi Li, Mustafa Mustafa, Kamyar Azizzadenesheli and Karthik Kasinath at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/){:target="\_blank"}. Advisor: [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/){:target="\_blank"} 
+<br>
+
+
 
 <font size="+1"> <b> Spatial and Temporal Super-Resolution of Global Climate Models using Deep Learning </b></font>
 Physics-based global climate simulations are computationally expensive and limited to low spatial and temporal resolutions, making it difficult to predict and track highly localized extreme weather phenomena. We used deep learning (SRGAN, CycleGAN, Super Slo Mo, and other methods) to increase the resolution of global climate models in both space and time. For this work we won the Best Paper Award and $20,000 prize at the [ProjectX](https://www.projectx2020.com/){:target="\_blank"} research competition
