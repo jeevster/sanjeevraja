@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-02-01 07:59:00-0400
+date: 2021-05-24 07:59:00-0400
 inline: true
 ---
 
-Received Computational and Systems Immunology Fellowship from the [Wen Lab](http://cheresearch.engin.umich.edu/wen/){:target="\_blank"}. Thanks Dr. Wen and all the lab members for your support!
+Started as a summer research intern at the [National Energy Research Scientific Computing Center](https://www.nersc.gov/){:target="\_blank"} (NERSC) at the [Lawrence Berkeley National Laboratory](https://www.lbl.gov/){:target="\_blank"}.
