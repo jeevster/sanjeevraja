@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-22-2 07:59:00-0400
+date: 2020-01-05 16:11:00-0400
 inline: true
 ---
 
-Check out our [preprint](https://arxiv.org/abs/2202.11214){:target="\_blank"} on using Adaptive Fourier Neural Operators for global weather forecasting.
+Won Best Paper Award and $20,000 prize at the [ProjectX](https://www.uoft.ai/projectx-2020){:target="\_blank"} research competition and presented at the UofT AI Conference. Check out our [paper](https://drive.google.com/file/d/1cbwTb7DNe0vRZiN9hg53W5MZdRbXJqsg/view){:target="\_blank"} on super-resolution of global climate models.
