@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-08-07 16:11:00-0400
+date: 2022-22-2 07:59:00-0400
 inline: true
 ---
 
-Last day as an intern at [Wolfspeed](https://www.wolfspeed.com/){:target="\_blank"}, where I worked on deep semantic segmentation for wafer scratch detection.
+Check out our [preprint](https://arxiv.org/abs/2202.11214){:target="\_blank"} on using Adaptive Fourier Neural Operators for global weather forecasting.
