@@ -5,17 +5,11 @@ permalink: /projects/
 nav: true
 ---
 <font size="+1"> <b> Multigrid Neural Operators for Efficient Deep Learning on Large Fields in the Physical Sciences </b></font>
-<<<<<<< HEAD
-Data arising from many physical science experiments contain hundreds of variables at high spatial resolution. Often, a single such image cannot be loaded onto a GPU, making machine learning workflows unfeasible. I developed a multigrid neural network which performs memory-efficient training and inference by training on multiscale crops while preserving long-range spatial interactions. Manuscripts currently in preparation. <br>
-With: Jaideep Pathak, Ashesh Chattopadhyay, Zongyi Li, Mustafa Mustafa, Kamyar Azizzadenesheli and Karthik Kasinath at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/){:target="\_blank"}. Advisor: [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/){:target="\_blank"} 
-<br>
-=======
 Data arising in many physical science applications contain hundreds of variables at high spatial resolution. Often, a single such image cannot be loaded onto a GPU, making machine learning workflows unfeasible. I developed a multigrid neural network which performs memory-efficient training and inference by training on multiscale crops while preserving long-range spatial interactions. I demonstrated applications in global weather forecasting and high-resolution fluid flow prediction. <br>
 With: Jaideep Pathak, Ashesh Chattopadhyay, Zongyi Li, Mustafa Mustafa, Kamyar Azizzadenesheli and Karthik Kasinath at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/){:target="\_blank"}. Advisor: [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/){:target="\_blank"} 
 <br>
 [Paper](https://arxiv.org/abs/2202.11214){:target="\_blank"}
 
->>>>>>> ea09b25a3acec36b04ac2336ecfab36575392413
 
 
 
