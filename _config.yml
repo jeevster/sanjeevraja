@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Sanjeev
 middle_name: 
 last_name: Raja
-email: sanjeevr@umich.edu
+email: sanjeevr@berkeley.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   
 footer_text: >
@@ -41,7 +41,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: jeevster # your GitHub user name
 twitter_username: # your Twitter handle
 linkedin_username: sanjeev-raja-73b9941aa # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: LPTfrUYAAAAJ&hl # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
