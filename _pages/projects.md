@@ -15,7 +15,7 @@ With: Ishan Amin, Fabian Pedregosa, and Aditi Krishnapriyan at UC Berkeley.
 Data arising in many physical science applications contain hundreds of variables at high spatial resolution. Often, a single such image cannot be loaded onto a GPU, making machine learning workflows unfeasible. I developed a multigrid neural network which performs memory-efficient training and inference by training on multiscale crops while preserving long-range spatial interactions. I demonstrated applications in global weather forecasting and high-resolution fluid flow prediction. <br>
 With: Jaideep Pathak, Ashesh Chattopadhyay, Zongyi Li, Mustafa Mustafa, Kamyar Azizzadenesheli and Karthik Kasinath at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/){:target="\_blank"}. Advisor: [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/){:target="\_blank"} 
 <br>
-[Paper](https://arxiv.org/abs/2202.11214){:target="\_blank"}
+[Paper](https://arxiv.org/abs/2202.11214){:target="\_blank"} | [Github](https://github.com/NVlabs/FourCastNet){:target="\_blank"}
 
 
 
