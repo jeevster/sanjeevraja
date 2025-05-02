@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-8-24 15:59:00-0400
+date: 2025-06-01 15:59:00-0400
 inline: true
 ---
 
-Starting my PhD in Computer Science at UC Berkeley. Excited for the next chapter!
+Joining [Valence Labs](https://www.valencelabs.com/){:target="\_blank"} in Montreal for a research internship. 
