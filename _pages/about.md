@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: UC Berkeley & Valence Labs
+description: UC Berkeley
 
 profile:
   align: right
@@ -13,7 +13,7 @@ news: true  # includes a list of news items
 selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I'm a third-year Computer Science PhD student at Berkeley AI Research [(BAIR)](https://bair.berkeley.edu/){:target="\_blank"} advised by [Aditi Krishnapriyan](https://a1k12.github.io/){:target="\_blank"}. 
+I'm a fourth-year Computer Science PhD student at Berkeley AI Research [(BAIR)](https://bair.berkeley.edu/){:target="\_blank"} advised by [Aditi Krishnapriyan](https://a1k12.github.io/){:target="\_blank"}. 
 
 My interests lie at the intersection of machine learning and atomistic modeling, with a particular focus on developing ML methods to accelerate [molecular dynamics simulations](https://en.wikipedia.org/wiki/Molecular_dynamics){:target="\_blank"}. Recently, I have also been working on generative modeling of molecular conformational ensembles.
 
