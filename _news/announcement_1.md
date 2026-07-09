@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-06-01 15:59:00-0400
+date: 2026-07-01 15:59:00-0400
 inline: true
 ---
 
-Joining [Valence Labs](https://www.valencelabs.com/){:target="\_blank"} in Montreal for a research internship. 
+[Paper](https://arxiv.org/abs/2607.03513v1){:target="\_blank"} and [blog post](https://substack.com/home/post/p-204039624){:target="\_blank"} are out from my Valence internship on all-atom generative models for free energy estimation!

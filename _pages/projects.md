@@ -1,16 +1,25 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: research
+permalink: /research/
 nav: true
 ---
+<font size="+1"> <b> AquaGen: Scaling generative models to molecular dynamics precision on thousands of atoms
+ </b></font>
+AquaGen is the first all-atom, explicit solvent, periodic-boundary-condition-aware generative model that produces molecular configurations from the Boltzmann distribution at a fraction of the cost of molecular dynamics (MD). This is in contrast with existing generative models that remove degrees of freedom by operating on coarse-grained, vacuum, or implicit solvent systems. Operating at this resolution allows for post-processing through force field energy evaluations and MD simulations, and enables the prediction of relevant properties in a gray-box manner (as ensemble averages of potential energy evaluations over generated samples). We demonstrate the utility of this paradigm on absolute hydration free energy (AHFE), producing estimates 4-10x faster and with comparable accuracy to standard GPU-based MD. By generating uncorrelated samples from alchemical Boltzmann distributions, we create more accurate, interpretable, and refinable ensemble predictions with calibrated uncertainty estimates, unlike regression methods which are entirely black-box predictors. Our approach also yields predictable benefits from increasing train- and test-time compute, realized by scaling model size and generating more samples, respectively. We believe that this approach demonstrates the utility of high-resolution ensemble generation for free energy estimation, with future potential to replace MD in tasks such as the prediction of lipophilicity, membrane permeability, or absolute binding free energy (ABFE) -- whose grounding and interpretability may be critical for the development of new drugs and materials.
+<br>
+With: Emmanuel Bengio, Sanjeev Raja, Yui Tik Pang, Kerstin Klaeser, Cristian Gabellini, Nikhil Shenoy, Francesco Di Giovanni, Prudencio Tossou
+<br>
+[Paper](https://arxiv.org/abs/2607.03513v1){:target="\_blank"} | [Blog Post](https://substack.com/home/post/p-204039624){:target="\_blank"}
+
+
 <font size="+1"> <b> Action-Minimization Meets Generative Modeling: Efficient Transition Path Sampling with the Onsager-Machlup Functional
  </b></font>
 Transition path sampling (TPS), which involves finding probable paths connecting two points on an energy landscape, remains a challenge due to the complexity of real-world atomistic systems. Current machine learning approaches use expensive, task-specific, and data-free training procedures, limiting their ability to benefit from recent advances in atomistic machine learning, such as high-quality datasets and large-scale pre-trained models. In this work, we address TPS by interpreting candidate paths as trajectories sampled from stochastic dynamics induced by the learned score function of pre-trained generative models, specifically denoising diffusion and flow matching. Under these dynamics, finding high-likelihood transition paths becomes equivalent to minimizing the Onsager-Machlup (OM) action functional. This enables us to repurpose pre-trained generative models for TPS in a zero-shot manner, in contrast with bespoke, task-specific TPS models trained in previous work. We demonstrate our approach on varied molecular systems, obtaining diverse, physically realistic transition pathways and generalizing beyond the pre-trained model's original training dataset. Our method can be easily incorporated into new generative models, making it practically relevant as models continue to scale and improve with increased data availability.
 <br>
 With: Martin Sipka, Michael Psenka, Toby Kreiman, Michal Pavelka, and Aditi Krishnapriyan.
 <br>
-[Paper - ICML 2025](https://arxiv.org/abs/2504.18506){:target="\_blank"}
+[Paper - ICML 2025](https://arxiv.org/abs/2504.18506){:target="\_blank"} | [Github](https://github.com/ASK-Berkeley/OM-TPS){:target="\_blank"}
 
 <font size="+1"> <b> Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians
  </b></font>
@@ -34,33 +43,6 @@ Data arising in many physical science applications contain hundreds of variables
 With: Jaideep Pathak, Ashesh Chattopadhyay, Zongyi Li, Mustafa Mustafa, Kamyar Azizzadenesheli and Karthik Kasinath at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/){:target="\_blank"}. Advisor: [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/){:target="\_blank"} 
 <br>
 [Paper](https://arxiv.org/abs/2202.11214){:target="\_blank"} | [Github](https://github.com/NVlabs/FourCastNet){:target="\_blank"}
-
-
-
-<font size="+1"> <b> Spatial and Temporal Super-Resolution of Global Climate Models using Deep Learning </b></font>
-Physics-based global climate simulations are computationally expensive and limited to low spatial and temporal resolutions, making it difficult to predict and track highly localized extreme weather phenomena. We used deep learning (SRGAN, CycleGAN, Super Slo Mo, and other methods) to increase the resolution of global climate models in both space and time. For this work we won the Best Paper Award and $20,000 prize at the [ProjectX](https://www.projectx2020.com/){:target="\_blank"} research competition
-<br>
-With: Eric Chen, Ziwei Tian, Anh Huan Tran, Yue Yao, Zhizhuo Zhou. Advisor: [Sindhu Kutty](https://www.cs.swarthmore.edu/~sindhu/){:target="\_blank"}
-<br>
-[Paper - UofT AI Conference 2021](https://drive.google.com/file/d/1cbwTb7DNe0vRZiN9hg53W5MZdRbXJqsg/view?usp=sharing){:target="\_blank"} | [GitHub](https://github.com/ericch99/bayes-and-blue){:target="\_blank"}
-<br>
-
-
-<font size="+1"> <b>Machine Learning for Immune Cell Profiling</b> </font>
-Time-of-flight mass cytometry - [CyTOF](https://www.fluidigm.com/products/helios){:target="\_blank"}- enables high-throughput, deep phenotyping of immune cells at the single-cell level. I worked on ML techniques like clustering (GMM, hierarchical), dimensionality reduction (tSNE, PCA), and supervised deep learning (CNN, graph networks) to analyze immunological datasets. 
-<br>
-With: Brett Hill, Andrew Zak, Christine Yee, Luke Bugada. Advisor: [Fei Wen](http://cheresearch.engin.umich.edu/wen/){:target="\_blank"}
-<br>
-[Paper - JCI Insight 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11383363/){:target="\_blank"}
-<br>
-
-
-<font size="+1"> <b>Multi-stage Fault Warning for Large Electric Grids using Anomaly Detection and Machine Learning</b> </font>
-In this work, we proposed a multi-stage early warning system for electric grid fault detection, classification, subgroup discovery, and visualization. We leveraged both supervised and unsupervised ML methods as well as dimensionality reduction.
-<br>
-With: [Ernest Fokoue](https://www.rit.edu/directory/epfeqa-ernest-fokoue){:target="\_blank"}
-<br>
-[Paper - Mathematics for Applications 2020](http://ma.fme.vutbr.cz/archiv/8_2/ma_8_2_2_raja_fokoue_final.pdf){:target="\_blank"}
 
 
 
